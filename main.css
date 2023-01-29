@@ -1,0 +1,190 @@
+body {
+    background-color: black;
+}
+
+.banner {
+    color: rgb(245, 245, 245);
+  font-family: baskerville ;
+  font-size: 300%;
+  font: 100;
+  text-align: center;
+background-image: url("https://media3.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif");
+
+padding: 100px;
+
+}
+a.logo {
+    border: 2px solid  #ffdb58;
+    margin: 50px;
+    padding: 5px;
+    display: inline-block;
+}
+.menu, .menu li {
+
+    margin: 0; 
+
+    padding: 0; 
+
+}
+
+.menu {
+
+    background: #0d5c25; 
+   
+    font-size: x-large;
+    padding-left: 18cm;
+
+}
+
+.menu li{
+
+    display:inline-block; 
+    text-align: center;
+    text-decoration-color: white;
+}
+
+.menu a {
+
+    display: block; 
+
+    padding: 5px 15px; 
+
+   
+
+    text-decoration: none; 
+}
+
+.menu .active {
+    color:white;
+}
+
+.menu a[href="#requirements"]{
+    color:white;
+}
+
+.menu a[href="#submission"]{
+    color:white;
+}
+
+.menu a[href="#grading"]{
+    color:white;
+}
+
+.menu a[href="#deadline"]{
+    color:white;
+}
+
+.menu a[href="#"]{
+    color:white;
+}
+
+.menu a:hover {
+
+    background: #060606; 
+    color:rgba(243, 249, 238, 0.831);
+}
+
+
+
+a:link { 
+    color: rgba(243, 249, 238, 0.831);
+ }         
+ a:visited {
+     color: rgb(14, 11, 14);
+     }    
+
+
+ 
+a:active { 
+    color: red; 
+}  
+#main-heading {
+    color: #ffdb58;
+}
+.topic {
+    font-family: Baskerville;  
+}
+#task h2{
+    color: #ffdb58;
+    border: 2px dashed #ffdb58;
+   
+    border-radius: 8px;
+
+}
+p { 
+color:#ffdb58;
+font-family: Baskerville; 
+}
+#requirements h2{
+    color: #ffdb58;
+    font-family: Baskerville;
+    border: 2px dashed #ffdb58;
+    
+    border-radius: 8px;
+}
+ul {
+    color:#ffdb58;
+font-family: Baskerville;
+}
+
+article {
+    color:#ffdb58;
+font-family: Baskerville;
+}
+
+#submission h2{
+    color: #ffdb58;
+    font-family: Baskerville;
+    border: 2px dashed #ffdb58;
+   
+    border-radius: 8px;
+}
+img {
+    border-radius: 8px;
+    display: inline-block;
+    width:  "300px" ;
+    height: "210px";
+   
+  }
+  #grading h2{
+    color: #ffdb58;
+    font-family: Baskerville;
+    border: 2px dashed #ffdb58;
+   
+    border-radius: 8px;
+}
+#deadline h4{
+    color: #ffdb58;
+    font-family: Baskerville;
+    border: 2px dashed #ffdb58;
+   
+    border-radius: 8px;
+}
+
+
+a[href="mailto:info@naturallyinspired.com"] {  
+    color:#ffdb58;
+font-family: Baskerville;
+}
+
+.contacts a:active {
+
+    color:rgba(234, 18, 18, 0.831);
+}
+.map {
+
+
+padding: 5px 15px; 
+}
+.categories h5{
+    color: #ffdb58;
+    font-family: Baskerville;
+}
+
+a[href="#"] {
+color:#ffdb58;
+}
+.quick_links h5{
+    color: #ffdb58;
+    font-family: Baskerville;
+}
